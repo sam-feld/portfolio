@@ -4,7 +4,7 @@ import type { Project } from '../utils/types'
 import { useEffect, useState } from 'react'
 import { getProjectById } from '../utils/fetchData'
 import LoadingSpinner from '../components/loading-spinner/LoadingSpinner'
-import { wait } from '../utils/utils'
+// import { wait } from '../utils/utils'
 import ImagePreviewTool from '../components/image-preview-tool/ImagePreviewTool'
 import NavBar from '../components//navbar/NavBar'
 
