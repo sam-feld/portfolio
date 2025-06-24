@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
 import styles from './SkillDisplay.module.css'
 import { Skill } from '../../utils/types'
-import { getSkills } from '../../utils/api'
+import { getSkills } from '../../utils/fetchData'
 import SkillCard from '../skill-card/SkillCard'
 
 export default function SkillDisplay() {

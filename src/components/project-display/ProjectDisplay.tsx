@@ -2,7 +2,7 @@ import { motion } from 'framer-motion';
 import { useEffect, useState, useRef } from 'react'
 import styles from './ProjectDisplay.module.css'
 import { Project, Tag } from '../../utils/types'
-import { getProjects } from '../../utils/api'
+import { getProjects } from '../../utils/fetchData'
 import ProjectCard from '../project-card/ProjectCard'
 import FilterButtonCard from '../filter-button-card/FilterButtonCard'
 

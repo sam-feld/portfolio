@@ -1,0 +1,180 @@
+[
+    {
+      "id": 2,
+      "name": "Interactive 3D Room",
+      "description": "A 3D graphics program using OpenGL in Python that renders a detailed room scene with textured objects, interactive lights, and immersive camera navigation.",
+      "tags": [
+        { "id": 101, "name": "OpenGL" },
+        { "id": 5, "name": "Graphics" },
+        { "id": 102, "name": "Python" }
+      ],
+      "coverImage": "https://media.cgtrader.com/variants/WwHrCYJYUquhPk9Kf4AnwouX/a26e47dab5f2d22c43d6c5ce4b4b46ecc30c70918878397cba1a10c1e35d7bfc/poolWoodTable01.jpg",
+      "images": [
+        "https://media.cgtrader.com/variants/WwHrCYJYUquhPk9Kf4AnwouX/a26e47dab5f2d22c43d6c5ce4b4b46ecc30c70918878397cba1a10c1e35d7bfc/poolWoodTable01.jpg"
+      ],
+      "github": [
+        "https://github.com/sam-feld/3d-scene.git"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Subway Route Search",
+      "description": "Implements DFS, BFS, UCS, and A* to solve subway navigation problems in Boston and London. Includes support for geographic radius goals and heuristic analysis.",
+      "tags": [
+        { "id": 6, "name": "AI" },
+        { "id": 7, "name": "Search Algorithms" },
+        { "id": 9, "name": "Algorithms" },
+        { "id": 102, "name": "Python" }
+      ],
+      "coverImage": "https://media.gettyimages.com/id/1135614262/video/new-york-subway-map-localization-seamless-4k-loop.jpg?s=640x640&k=20&c=xK_MKCpWBiNQPYSfMnztcChEJDeHzFMznd6ES0KirNA=",
+
+      "images": [
+        "https://media.gettyimages.com/id/1135614262/video/new-york-subway-map-localization-seamless-4k-loop.jpg?s=640x640&k=20&c=xK_MKCpWBiNQPYSfMnztcChEJDeHzFMznd6ES0KirNA=",
+        "https://upload.wikimedia.org/wikipedia/commons/e/eb/NYC_subway_late_night_map_June2010.svg"
+      ],
+      "github": [
+        "https://github.com/sam-feld/ai-route-search.git"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Connect Four AI",
+      "description": "A Games-playing AI agent for Connect Four that uses alpha-beta pruning with configurable depth limits and custom evaluation functions. The same algorithm is also used to play standard Tic-Tac-Toe and a unique three-player version",
+      "tags": [
+        { "id": 6, "name": "AI" },
+        { "id": 12, "name": "Games" },
+        { "id": 102, "name": "Python" }
+      ],
+      "coverImage": "https://www.rd.com/wp-content/uploads/2023/10/How-to-Win-Connect-4-Every-Time-2.jpg",
+      "images": [
+        "https://www.rd.com/wp-content/uploads/2023/10/How-to-Win-Connect-4-Every-Time-2.jpg",
+        "https://miro.medium.com/v2/resize:fit:801/1*NKzsRiAxa_oiikgbLyLCyw.png"
+      ],
+      "github": [
+        "https://github.com/sam-feld/connect4-ai.git"
+      ]
+    },
+    {
+        "id": 65,
+        "name": "Animal Web App",
+        "description": "A full-stack web app for browsing and managing animal profiles, with public-facing pages and a private admin portal.",
+        "tags": [
+          { "id": 1, "name": "Full Stack" },
+          { "id": 2, "name": "TypeScript" },
+          { "id": 105, "name": "Express" },
+          { "id": 106, "name": "Node.js" }
+        ],
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp5rOnI_o-vEZuPu4hQrMV2blMOyyda8F8zA&s",
+        "images": [
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp5rOnI_o-vEZuPu4hQrMV2blMOyyda8F8zA&s"
+        ],
+        "github": [
+          "https://github.com/sam-feld/animal-catalog-frontend.git",
+          "https://github.com/sam-feld/animal-catalog-backend.git"
+        ]
+      },
+    {
+      "id": 6,
+      "name": "This Portfolio Site",
+      "description": "A React-based portfolio site showcasing all my projects. It’s the same site you're currently viewing.",
+      "tags": [
+        { "id": 1, "name": "Full Stack" },
+        { "id": 4, "name": "React" },
+        { "id": 2, "name": "TypeScript" },
+        { "id": 105, "name": "Express" },
+        { "id": 106, "name": "Node.js" }
+      ],
+      "coverImage": "https://www.designbombs.com/wp-content/uploads/2020/09/1.jpg",
+      "images": [
+        "https://www.designbombs.com/wp-content/uploads/2020/09/1.jpg"
+      ],
+      "github": [
+        "https://github.com/sam-feld/portfolio-frontend.git"
+      ]
+    },
+    {
+        "id": 7,
+        "name": "Mafia Game (iOS)",
+        "description": "An iOS app version of the social game Mafia. Players join via their phones, receive roles, and interact through private and public chats during alternating night and day cycles. The game automatically determines winners based on Mafia rules.",
+        "tags": [
+          { "id": 11, "name": "Mobile App" },
+          { "id": 104, "name": "Swift" },
+          { "id": 12, "name": "Games" }
+        ],
+        "coverImage": "https://static.vecteezy.com/system/resources/previews/004/341/839/non_2x/premium-mafia-man-illustration-tshirt-design-vector.jpg",
+        "images": [
+          "https://static.vecteezy.com/system/resources/previews/004/341/839/non_2x/premium-mafia-man-illustration-tshirt-design-vector.jpg"
+        ],
+        "github": [
+          "https://github.com/sam-feld/mafia.git"
+        ]
+      },
+    {
+        "id": 8,
+        "name": "K-Means Clustering",
+        "description": "A clustering tool that implements k-means with multiple iterations and automatic cluster selection via gap statistic. Includes custom visualization scripts.",
+        "tags": [
+          { "id": 8, "name": "Data Mining" },
+          { "id": 9, "name": "Clustering" },
+          { "id": 102, "name": "Python" }
+        ],
+        "coverImage": "https://www.vlfeat.org/demo/kmeans_2d_rand.jpg",
+        "images": [
+          "https://www.vlfeat.org/demo/kmeans_2d_rand.jpg"
+        ],
+        "github": [
+          "https://github.com/sam-feld/kmeans.git"
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Longest Common Subsequence",
+        "description": "A Java program that computes the longest common subsequence among three strings using a 3D dynamic programming matrix. Includes a 3-way backtracking algorithm with encoded position tracking for efficient subsequence reconstruction.",
+        "tags": [
+          { "id": 107, "name": "Java" },
+          { "id": 9, "name": "Algorithms" }
+        ],
+        "coverImage": "https://www.snexplores.org/wp-content/uploads/2020/11/1030_algorithm_explainer-1028x579.jpg",
+        "images": [
+          "https://www.snexplores.org/wp-content/uploads/2020/11/1030_algorithm_explainer-1028x579.jpg"
+        ],
+        "github": [
+          "https://github.com/sam-feld/lcs.git"
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Dynamic Bounding Box",
+        "description": "A Java program that manages a labeled set of 3D points with support for insert, update, and delete operations. It uses nested TreeMaps to track coordinates efficiently and calculates the volume of the smallest axis-aligned box that encloses all active points.",
+        "tags": [
+          { "id": 107, "name": "Java" },
+          { "id": 9, "name": "Algorithms" },
+          { "id": 13, "name": "Data Structures" }
+        ],
+        "coverImage": "https://developer.rhino3d.com/api/rhinoscript/images/boundingbox.jpg",
+        "images": [
+          "https://developer.rhino3d.com/api/rhinoscript/images/boundingbox.jpg"
+        ],
+        "github": [
+          "https://github.com/sam-feld/dynamic-bounding-box.git"
+        ]
+      },
+      {
+        "id": 11,
+        "name": "LZW Compression",
+        "description": "A Java implementation of the LZW algorithm to compress and decompress DNA sequences encoded with A, C, G, and T. Supports lossless reconstruction using dynamic dictionary management.",
+        "tags": [
+          { "id": 107, "name": "Java" },
+          { "id": 9, "name": "Algorithms" },
+          { "id": 14, "name": "Compression" }
+        ],
+        "coverImage": "https://images.slideplayer.com/28/9292661/slides/slide_5.jpg",
+        "images": [
+          "https://images.slideplayer.com/28/9292661/slides/slide_5.jpg"
+        ],
+        "github": [
+          "https://github.com/sam-feld/lzw.git"
+        ]
+      }            
+  ]
+  
