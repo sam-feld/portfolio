@@ -24,9 +24,44 @@ export default function ProjectDisplay() {
     }
 
     async function loadProjects() {
-        const projectApiData = await getProjects()
+        var projectApiData = await getProjects()
+        projectApiData = filterValidProjects(projectApiData);
         setProjects(projectApiData)
     }
+
+    function isValidTag(item: any): item is Tag {
+        return (
+          item &&
+          typeof item.id === "number" &&
+          typeof item.name === "string"
+        );
+      }
+      
+      function isValidProject(item: any): item is Project {
+        return (
+          item &&
+          typeof item.id === "number" &&
+          typeof item.name === "string" &&
+          typeof item.description === "string" &&
+          Array.isArray(item.tags) &&
+          item.tags.every(isValidTag) &&
+          typeof item.coverImage === "string" &&
+          Array.isArray(item.images) &&
+          item.images.every((img: any) => typeof img === "string") &&
+          Array.isArray(item.github) &&
+          item.github.every((url: any) => typeof url === "string")
+        );
+      }
+      
+      function filterValidProjects(data: any[]): Project[] {
+        return data.filter((item, index) => {
+          if (!isValidProject(item)) {
+            console.log(`Invalid item at index ${index}:`, item);
+            return false;
+          }
+          return true;
+        });
+      }
 
     useEffect(() => {
         loadProjects()
