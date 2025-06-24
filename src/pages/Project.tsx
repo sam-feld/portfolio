@@ -18,7 +18,7 @@ export default function Project() {
     async function loadProduct() {
         try {
             const productApiData = await getProjectById(id)
-            await wait(500) // purposefully delay loading for 500ms (one half of a second) so user can see the loading spinner
+            //await wait(500) // purposefully delay loading for 500ms (one half of a second) so user can see the loading spinner
             setProduct(productApiData)
             document.title = productApiData.name
         }
