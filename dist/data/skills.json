@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "name": "Java",
+    "category": "Programming Languages",
+    "iconDark": "https://cdn-icons-png.flaticon.com/512/152/152760.png",
+    "iconLight": "https://www.vectorlogo.zone/logos/java/java-icon.svg"
+  },
+  {
+    "id": 2,
+    "name": "Python",
+    "category": "Programming Languages",
+    "iconDark": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Python_icon_%28black_and_white%29.svg/768px-Python_icon_%28black_and_white%29.svg.png",
+    "iconLight": "https://www.vectorlogo.zone/logos/python/python-icon.svg"
+  },
+  {
+    "id": 3,
+    "name": "JavaScript",
+    "category": "Programming Languages",
+    "iconDark": "https://images.icon-icons.com/2389/PNG/512/javascript_logo_icon_145155.png",
+    "iconLight": "https://cdn.freebiesupply.com/logos/large/2x/logo-javascript-logo-black-and-white.png"
+  },
+  {
+    "id": 4,
+    "name": "TypeScript",
+    "category": "Programming Languages",
+    "iconDark": "https://www.svgrepo.com/show/306891/typescript.svg",
+    "iconLight": "https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"
+  },
+  {
+    "id": 5,
+    "name": "HTML",
+    "category": "Web Technologies",
+    "iconDark": "https://cdn-icons-png.flaticon.com/256/121/121537.png",
+    "iconLight": "https://png.pngtree.com/png-vector/20190412/ourmid/pngtree-html-file-document-icon-png-image_931728.jpg"
+    
+  },
+  {
+    "id": 6,
+    "name": "CSS",
+    "category": "Web Technologies",
+    "iconDark": "https://images.icon-icons.com/2845/PNG/512/css_logo_icon_181257.png",
+    "iconLight": "https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"
+  },
+  {
+    "id": 7,
+    "name": "React",
+    "category": "Web Technologies",
+    "iconDark": "https://images.icon-icons.com/3261/PNG/512/reactjs_logo_icon_206693.png",
+    "iconLight": "https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"
+  },
+  {
+    "id": 8,
+    "name": "Swift",
+    "category": "Programming Languages",
+    "iconDark": "https://cdn-icons-png.freepik.com/512/5968/5968561.png",
+    "iconLight": "https://cdn-icons-png.freepik.com/512/5968/5968561.png"
+  },  
+  {
+    "id": 9,
+    "name": "OCL",
+    "category": "Modeling & Specification",
+    "iconDark": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxjFauDtUCkOdJQ9CsFfZKMfSjS4DjWV5rpA&s",
+    "iconLight": "https://seeklogo.com/images/O/ocl-logo-238205.svg"
+  },
+  {
+    "id": 10,
+    "name": "Git",
+    "category": "Version Control & Tools",
+    "iconDark": "https://img.icons8.com/ios_filled/512/git.png",
+    "iconLight": "https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+  },
+  {
+    "id": 11,
+    "name": "GitHub",
+    "category": "Version Control & Tools",
+    "iconDark": "https://pngimg.com/d/github_PNG40.png",
+    "iconLight": "https://img.icons8.com/ios11/512/FFFFFF/github.png"
+  },
+  {
+    "id": 12,
+    "name": "Notion",
+    "category": "Productivity & Organization",
+    "iconDark": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png",
+    "iconLight": "https://framerusercontent.com/images/w2IKJuah8eSHROgRApN3H2oayM.png"
+  },
+  {
+    "id": 13,
+    "name": "Photoshop",
+    "category": "Design Tools",
+    "iconDark": "https://www.svgrepo.com/show/105616/adobe-photoshop.svg",
+    "iconLight": "https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg"
+  },
+  {
+    "id": 14,
+    "name": "Illustrator",
+    "category": "Design Tools",
+    "iconDark": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlIg31FWd3JObfqwmw3_e7nDhWEyk4A6wXMg&s",
+    "iconLight": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg"
+  },
+  {
+    "id": 15,
+    "name": "InDesign",
+    "category": "Design Tools",
+    "iconDark": "https://cdn-icons-png.flaticon.com/512/121/121136.png",
+    "iconLight": "https://upload.wikimedia.org/wikipedia/commons/4/48/Adobe_InDesign_CC_icon.svg"
+  },
+  {
+    "id": 16,
+    "name": "Figma",
+    "category": "Design Tools",
+    "iconDark": "https://cdn-icons-png.flaticon.com/512/5968/5968719.png",
+    "iconLight": "https://cdn-icons-png.flaticon.com/512/5968/5968704.png"
+  },
+  {
+    "id": 17,
+    "name": "UML",
+    "category": "Modeling & Specification",
+    "iconDark": "https://static.vecteezy.com/system/resources/previews/029/337/129/non_2x/uml-letter-logo-design-inspiration-for-a-unique-identity-modern-elegance-and-creative-design-watermark-your-success-with-the-striking-this-logo-vector.jpg",
+    "iconLight": "https://upload.wikimedia.org/wikipedia/commons/2/2e/UML_logo.svg"
+  },
+  {
+    "id": 18,
+    "name": "VS Code",
+    "category": "Version Control & Tools",
+    "iconDark": "https://www.svgrepo.com/show/342347/visual-studio-code.svg",
+    "iconLight": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"
+  }
+]
+ 
