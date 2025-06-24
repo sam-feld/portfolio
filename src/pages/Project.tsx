@@ -8,6 +8,7 @@ import LoadingSpinner from '../components/loading-spinner/LoadingSpinner'
 import ImagePreviewTool from '../components/image-preview-tool/ImagePreviewTool'
 import NavBar from '../components//navbar/NavBar'
 
+
 export default function Project() {
     const idParam = useParams().id!
     const id = parseInt(idParam, 10);
