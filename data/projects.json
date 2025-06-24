@@ -12,8 +12,7 @@
       "images": [
         "images/3d-scene/3d-scene2.gif",
         "images/3d-scene/3d-scene3.png",
-        "images/3d-scene/3d-scene1.png",
-        "images/3d-scene/3d-scene4.png"
+        "images/3d-scene/3d-scene1.png"
       ],
       "github": [
         "https://github.com/sam-feld/3d-scene.git"
@@ -82,8 +81,7 @@
       "description": "A React-based portfolio site showcasing all my projects. It’s the same site you're currently viewing.",
       "tags": [
         { "id": 4, "name": "React" },
-        { "id": 2, "name": "TypeScript" },
-        { "id": 106, "name": "Node.js" }
+        { "id": 2, "name": "TypeScript" }
       ],
       "coverImage": "images/portfolio/portfolio_home.png",
       "images": [
