@@ -6,13 +6,6 @@ export interface Skill {
     iconLight: string
 }
 
-export interface User {
-    id: number
-    firstName: string
-    lastName: string
-    username: string
-}
-
 export interface Project {
     id: number
     name: string

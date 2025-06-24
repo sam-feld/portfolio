@@ -8,9 +8,12 @@
         { "id": 5, "name": "Graphics" },
         { "id": 102, "name": "Python" }
       ],
-      "coverImage": "https://media.cgtrader.com/variants/WwHrCYJYUquhPk9Kf4AnwouX/a26e47dab5f2d22c43d6c5ce4b4b46ecc30c70918878397cba1a10c1e35d7bfc/poolWoodTable01.jpg",
+      "coverImage": "images/3d-scene/3d-scene1.png",
       "images": [
-        "https://media.cgtrader.com/variants/WwHrCYJYUquhPk9Kf4AnwouX/a26e47dab5f2d22c43d6c5ce4b4b46ecc30c70918878397cba1a10c1e35d7bfc/poolWoodTable01.jpg"
+        "images/3d-scene/3d-scene2.gif",
+        "images/3d-scene/3d-scene3.png",
+        "images/3d-scene/3d-scene1.png",
+        "images/3d-scene/3d-scene4.png"
       ],
       "github": [
         "https://github.com/sam-feld/3d-scene.git"
@@ -82,9 +85,9 @@
         { "id": 2, "name": "TypeScript" },
         { "id": 106, "name": "Node.js" }
       ],
-      "coverImage": "https://www.designbombs.com/wp-content/uploads/2020/09/1.jpg",
+      "coverImage": "images/portfolio/portfolio_home.png",
       "images": [
-        "https://www.designbombs.com/wp-content/uploads/2020/09/1.jpg"
+        "images/portfolio/portfolio_home.png"
       ],
       "github": [
         "https://github.com/sam-feld/portfolio.git"
