@@ -78,10 +78,8 @@
       "name": "This Portfolio Site",
       "description": "A React-based portfolio site showcasing all my projects. It’s the same site you're currently viewing.",
       "tags": [
-        { "id": 1, "name": "Full Stack" },
         { "id": 4, "name": "React" },
         { "id": 2, "name": "TypeScript" },
-        { "id": 105, "name": "Express" },
         { "id": 106, "name": "Node.js" }
       ],
       "coverImage": "https://www.designbombs.com/wp-content/uploads/2020/09/1.jpg",
