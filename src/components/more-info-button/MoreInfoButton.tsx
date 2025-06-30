@@ -27,7 +27,7 @@ export default function MoreInfoButton() {
             <p>I am a software engineer passionate about clean UI, clever logic, and thoughtful design.</p>
             <div className={styles['second-paragrph']} >
               <p>I recived a Master's in Computer  <br />  Science from Quinnipiac University. <br /> 
-              See my full resume <Link className={styles['resume-link']} target="_blank" rel="noopener noreferrer" to={`/resume.pdf`}>here.</Link></p>  
+              Request my full resume <Link className={styles['resume-link']} target="_blank" rel="noopener noreferrer" to={`/resume.pdf`}>here.</Link></p>  
             </div>   
           </div>
         </div>
